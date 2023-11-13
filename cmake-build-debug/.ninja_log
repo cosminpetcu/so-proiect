@@ -1,0 +1,17 @@
+# ninja log v5
+131	282	7215869534876745	so_proiect.exe	5fadff97f1400636
+3	131	7215869533434608	CMakeFiles/so_proiect.dir/main.c.obj	4297be42da775a4e
+2	80	7215870410551208	CMakeFiles/so_proiect.dir/main.c.obj	4297be42da775a4e
+80	171	7215870411434991	so_proiect.exe	5fadff97f1400636
+2	78	7215870631477256	CMakeFiles/so_proiect.dir/main.c.obj	4297be42da775a4e
+79	170	7215870632355736	so_proiect.exe	5fadff97f1400636
+2	81	7215870955956536	CMakeFiles/so_proiect.dir/main.c.obj	4297be42da775a4e
+81	175	7215870956855214	so_proiect.exe	5fadff97f1400636
+2	77	7215871000998425	CMakeFiles/so_proiect.dir/main.c.obj	4297be42da775a4e
+77	168	7215871001872694	so_proiect.exe	5fadff97f1400636
+2	81	7215872522365847	CMakeFiles/so_proiect.dir/main.c.obj	4297be42da775a4e
+82	179	7215872523293583	so_proiect.exe	5fadff97f1400636
+2	77	7215872788789314	CMakeFiles/so_proiect.dir/main.c.obj	4297be42da775a4e
+78	170	7215872789676781	so_proiect.exe	5fadff97f1400636
+1	78	7215872932953931	CMakeFiles/so_proiect.dir/main.c.obj	4297be42da775a4e
+78	172	7215872933836472	so_proiect.exe	5fadff97f1400636
